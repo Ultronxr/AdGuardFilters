@@ -35,3 +35,4 @@
 ||fclick.baidu.com
 ||hectorstatic.baidu.com
 ||mbd.baidu.com
+||mbdp02.bdstatic.com^
